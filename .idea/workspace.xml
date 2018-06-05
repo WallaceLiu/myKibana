@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8a93bfd-944e-413b-a11a-ac86673716f3" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/STYLEGUIDE.md" beforeDir="false" afterPath="$PROJECT_DIR$/STYLEGUIDE.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="yarn-error.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yarn-error.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yarn.lock" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yarn.lock">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tslint.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tslint.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="STYLEGUIDE.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/STYLEGUIDE.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="432">
+                <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="164">
+                <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/STYLEGUIDE.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.5.3/libexec" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules" />
+    <handled-path value="$PROJECT_DIR$/packages/kbn-es/node_modules" />
+    <handled-path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules" />
+    <handled-path value="$PROJECT_DIR$/packages/kbn-system-loader/node_modules" />
+    <handled-path value="$PROJECT_DIR$/src/dev/npm/__tests__/fixtures/fixture1/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-code-frame/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-builder-binary-assignment-operator-visitor/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-builder-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-call-delegate/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-define-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-explode-assignable-expression/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-function-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-get-function-arity/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-hoist-variables/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-optimise-call-expression/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-remap-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-replace-supers/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-messages/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-add-module-exports/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-check-es2015-constants/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-async-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-async-generators/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-flow/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-jsx/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-trailing-function-commas/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-async-generator-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-define/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-arrow-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-block-scoped-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-block-scoping/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-classes/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-computed-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-destructuring/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-duplicate-keys/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-for-of/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-function-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-literals/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-modules-amd/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-modules-commonjs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-modules-systemjs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-modules-umd/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-object-super/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-parameters/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-shorthand-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-spread/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-sticky-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-template-literals/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-typeof-symbol/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-unicode-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-flow-strip-types/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-react-display-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-react-jsx-self/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-react-jsx-source/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-regenerator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-strict-mode/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-preset-env/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-preset-flow/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-preset-react/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-template/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-traverse/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-types/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/caniuse-db/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/electron-to-chromium/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/globals/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/invariant/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/private/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/regenerate/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/regenerator-transform/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/regjsgen/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/regjsparser/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/node_modules/traverse/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/@kbn/babel-preset/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/async-each/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-cli/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-code-frame/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-code-frame/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-code-frame/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-code-frame/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-core/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-generator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-helper-builder-binary-assignment-operator-visitor/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-helper-builder-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-helper-call-delegate/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-helper-define-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-helper-explode-assignable-expression/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-helper-function-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-helper-get-function-arity/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-helper-hoist-variables/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-helper-optimise-call-expression/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-helper-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-helper-remap-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-helper-replace-supers/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-helpers/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-messages/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-add-module-exports/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-check-es2015-constants/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-syntax-async-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-syntax-async-generators/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-syntax-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-syntax-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-syntax-flow/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-syntax-jsx/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-syntax-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-syntax-trailing-function-commas/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-async-generator-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-define/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-define/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-arrow-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-block-scoped-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-block-scoping/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-classes/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-computed-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-destructuring/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-duplicate-keys/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-for-of/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-function-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-literals/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-modules-amd/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-modules-commonjs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-modules-systemjs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-modules-umd/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-object-super/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-parameters/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-shorthand-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-spread/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-sticky-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-template-literals/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-typeof-symbol/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-es2015-unicode-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-flow-strip-types/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-react-display-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-react-jsx-self/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-react-jsx-source/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-regenerator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-plugin-transform-strict-mode/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-polyfill/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-preset-env/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-preset-flow/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-preset-react/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-register/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-runtime/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-template/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-traverse/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babel-types/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/block-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/caniuse-db/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/chance/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/convert-source-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/detect-indent/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/detect-libc/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/electron-to-chromium/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/expand-range/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/expect.js/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/filename-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/for-own/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fs-readdir-recursive/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/block-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/buffer-shims/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/dashdash/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/detect-libc/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/fstream-ignore/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/fstream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/getpass/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/hawk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/jodid25519/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/jsonify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/jsprim/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/node-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/rc/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/sntp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/sshpk/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/stringstream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/tar-pack/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/uid-number/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fsevents/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fstream-ignore/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/fstream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/glob-base/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/globals/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/hawk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/home-or-tmp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/http-signature/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/invariant/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/is-dotfile/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/is-equal-shallow/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/is-posix-bracket/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/is-primitive/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/jsonify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/nice-try/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/node-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/object.omit/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/output-file-sync/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/parse-glob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/preserve/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/private/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/randomatic/node_modules/is-number/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/randomatic/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/randomatic/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/randomatic/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/rc/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/readdirp/examples/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/regenerate/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/regenerator-transform/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/regex-cache/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/regjsgen/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/regjsparser/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/regjsparser/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/repeating/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/set-immediate-shim/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/shebang-command/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/shebang-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/slash/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/sntp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/source-map-support/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/stringstream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/tar-pack/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/traverse/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/tree-kill/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/trim-right/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/uid-number/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/user-home/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/v8flags/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/verror/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-dev-utils/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-code-frame/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-builder-binary-assignment-operator-visitor/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-builder-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-call-delegate/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-define-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-explode-assignable-expression/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-function-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-get-function-arity/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-hoist-variables/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-optimise-call-expression/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-remap-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-helper-replace-supers/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-messages/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-add-module-exports/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-check-es2015-constants/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-async-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-async-generators/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-flow/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-jsx/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-syntax-trailing-function-commas/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-async-generator-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-define/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-arrow-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-block-scoped-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-block-scoping/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-classes/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-computed-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-destructuring/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-duplicate-keys/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-for-of/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-function-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-literals/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-modules-amd/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-modules-commonjs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-modules-systemjs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-modules-umd/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-object-super/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-parameters/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-shorthand-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-spread/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-sticky-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-template-literals/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-typeof-symbol/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-es2015-unicode-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-flow-strip-types/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-react-display-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-react-jsx-self/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-react-jsx-source/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-regenerator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-plugin-transform-strict-mode/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-preset-env/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-preset-flow/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-preset-react/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-template/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-traverse/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babel-types/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/caniuse-db/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/electron-to-chromium/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/globals/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/invariant/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/private/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/regenerate/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/regenerator-transform/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/regjsgen/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/regjsparser/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/node_modules/traverse/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/@kbn/babel-preset/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/async-each/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-cli/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-code-frame/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-code-frame/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-code-frame/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-code-frame/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-core/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-generator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-helper-builder-binary-assignment-operator-visitor/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-helper-builder-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-helper-call-delegate/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-helper-define-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-helper-explode-assignable-expression/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-helper-function-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-helper-get-function-arity/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-helper-hoist-variables/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-helper-optimise-call-expression/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-helper-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-helper-remap-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-helper-replace-supers/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-helpers/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-messages/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-add-module-exports/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-check-es2015-constants/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-syntax-async-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-syntax-async-generators/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-syntax-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-syntax-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-syntax-flow/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-syntax-jsx/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-syntax-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-syntax-trailing-function-commas/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-async-generator-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-define/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-define/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-arrow-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-block-scoped-functions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-block-scoping/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-classes/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-computed-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-destructuring/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-duplicate-keys/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-for-of/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-function-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-literals/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-modules-amd/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-modules-commonjs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-modules-systemjs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-modules-umd/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-object-super/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-parameters/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-shorthand-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-spread/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-sticky-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-template-literals/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-typeof-symbol/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-es2015-unicode-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-flow-strip-types/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-react-display-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-react-jsx-self/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-react-jsx-source/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-regenerator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-plugin-transform-strict-mode/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-polyfill/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-preset-env/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-preset-flow/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-preset-react/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-register/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-runtime/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-template/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-traverse/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babel-types/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/block-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/caniuse-db/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/chance/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/convert-source-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/detect-indent/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/detect-libc/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/electron-to-chromium/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/expand-range/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/expect.js/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/filename-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/for-own/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fs-readdir-recursive/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/block-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/buffer-shims/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/dashdash/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/detect-libc/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/fstream-ignore/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/fstream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/getpass/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/hawk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/jodid25519/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/jsonify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/jsprim/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/node-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/rc/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/sntp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/sshpk/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/stringstream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/tar-pack/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/uid-number/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fsevents/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fstream-ignore/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/fstream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/glob-base/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/globals/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/hawk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/home-or-tmp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/http-signature/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/invariant/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/is-dotfile/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/is-equal-shallow/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/is-posix-bracket/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/is-primitive/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/jsonify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/nice-try/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/node-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/object.omit/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/output-file-sync/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/parse-glob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/preserve/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/private/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/randomatic/node_modules/is-number/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/randomatic/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/randomatic/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/randomatic/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/rc/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/readdirp/examples/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/regenerate/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/regenerator-transform/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/regex-cache/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/regjsgen/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/regjsparser/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/regjsparser/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/repeating/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/set-immediate-shim/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/shebang-command/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/shebang-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/slash/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/sntp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/source-map-support/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/stringstream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/tar-pack/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/traverse/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/tree-kill/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/trim-right/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/uid-number/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/user-home/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/v8flags/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/verror/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/@kbn/dev-utils/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/agentkeepalive/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/bl/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/dedent/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/elasticsearch/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/elasticsearch/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/elasticsearch/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/elasticsearch/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/humanize-ms/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/humanize-ms/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/lodash.get/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/lodash.isempty/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/lodash.trimend/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/nice-try/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/node-fetch/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/shebang-command/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/shebang-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/simple-git/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/tar-fs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/tar-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/tree-kill/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/node_modules/zlib/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-es/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/ansi-cyan/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/ansi-escapes/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/ansi-red/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/ansi-wrap/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/append-buffer/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/argv-split/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/arr-union/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/array-slice/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/arrify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/buffer-crc32/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/buffer-equal/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/cli-cursor/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/cli-width/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/clone-buffer/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/clone-stats/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/cloneable-readable/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/convert-source-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/define-properties/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/del/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/duplexify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/exit-hook/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/external-editor/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/figures/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/flush-write-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/foreach/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/fs-mkdirp-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/glob-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/gulp-rename/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/gulp-zip/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/has-symbols/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/inquirer/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-negated-glob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-path-cwd/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-path-in-cwd/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-path-inside/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-relative/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-unc-path/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-valid-glob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/jsonify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/lazystream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/lead/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/mute-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/now-and-later/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/object-keys/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/object.assign/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/onetime/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/ordered-read-streams/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/os-shim/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/path-dirname/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/path-is-inside/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/plugin-error/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/pumpify/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/remove-bom-buffer/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/remove-bom-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/replace-ext/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/resolve-options/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/restore-cursor/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/run-async/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/rx/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/spawn-sync/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/stream-shift/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/through/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/through2-filter/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/through2-map/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/tmp/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/to-absolute-glob/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/to-through/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/typedarray/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/unc-path-regex/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/unique-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/value-or-function/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/vinyl-fs/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/vinyl-fs/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/vinyl-fs/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/vinyl-sourcemap/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/vinyl/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/node_modules/yazl/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/tasks/build/__fixtures__/build_action_test_plugin/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/tasks/build/__fixtures__/create_build_test_plugin/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-plugin-helpers/tasks/build/__fixtures__/create_package_test_plugin/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-system-loader/node_modules/@types/jest/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-system-loader/node_modules/typescript/package.json" />
+      <path value="$PROJECT_DIR$/packages/kbn-system-loader/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/console/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/dev_mode/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/elasticsearch/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/input_control_vis/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/kbn_doc_views/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/kbn_vislib_vis_types/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/kibana/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/markdown_vis/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/metric_vis/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/metrics/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/region_map/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/spy_modes/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/state_session_storage_redirect/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/status_page/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/table_vis/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/tagcloud/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/testbed/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/tests_bundle/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/tile_map/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/timelion/package.json" />
+      <path value="$PROJECT_DIR$/src/core_plugins/vega/package.json" />
+      <path value="$PROJECT_DIR$/src/dev/notice/__fixtures__/node_modules/bar/package.json" />
+      <path value="$PROJECT_DIR$/src/dev/notice/__fixtures__/node_modules/foo/package.json" />
+      <path value="$PROJECT_DIR$/src/dev/npm/__tests__/fixtures/fixture1/node_modules/dep1/package.json" />
+      <path value="$PROJECT_DIR$/src/dev/npm/__tests__/fixtures/fixture1/node_modules/privatedep/package.json" />
+      <path value="$PROJECT_DIR$/src/dev/npm/__tests__/fixtures/fixture1/package.json" />
+      <path value="$PROJECT_DIR$/src/plugin_discovery/__tests__/fixtures/conflicts/foo/package.json" />
+      <path value="$PROJECT_DIR$/src/plugin_discovery/__tests__/fixtures/plugins/bar/package.json" />
+      <path value="$PROJECT_DIR$/src/plugin_discovery/__tests__/fixtures/plugins/foo/package.json" />
+      <path value="$PROJECT_DIR$/src/plugin_discovery/plugin_pack/__tests__/fixtures/plugins/broken/package.json" />
+      <path value="$PROJECT_DIR$/src/plugin_discovery/plugin_pack/__tests__/fixtures/plugins/broken_code/package.json" />
+      <path value="$PROJECT_DIR$/src/plugin_discovery/plugin_pack/__tests__/fixtures/plugins/exports_number/package.json" />
+      <path value="$PROJECT_DIR$/src/plugin_discovery/plugin_pack/__tests__/fixtures/plugins/exports_object/package.json" />
+      <path value="$PROJECT_DIR$/src/plugin_discovery/plugin_pack/__tests__/fixtures/plugins/exports_string/package.json" />
+      <path value="$PROJECT_DIR$/src/plugin_discovery/plugin_pack/__tests__/fixtures/plugins/foo/package.json" />
+      <path value="$PROJECT_DIR$/src/plugin_discovery/plugin_pack/__tests__/fixtures/plugins/prebuilt/package.json" />
+      <path value="$PROJECT_DIR$/src/ui/__tests__/fixtures/plugin_async_foo/package.json" />
+      <path value="$PROJECT_DIR$/src/ui/__tests__/fixtures/plugin_bar/package.json" />
+      <path value="$PROJECT_DIR$/src/ui/__tests__/fixtures/plugin_foo/package.json" />
+      <path value="$PROJECT_DIR$/src/ui/__tests__/fixtures/test_app/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myKibana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myKibana" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8a93bfd-944e-413b-a11a-ac86673716f3" name="Default" comment="" />
+      <created>1528177263513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528177263513</updated>
+      <workItem from="1528177269098" duration="704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="704000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Learn" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/dev/jest/ts_transform.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn-error.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tslint.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STYLEGUIDE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="432">
+            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="164">
+            <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

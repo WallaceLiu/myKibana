@@ -17,8 +17,8 @@ recommended for the development of all Kibana plugins.
 
 All filenames should use `snake_case`.
 
-*Right:*
+*正确:*
   - `src/kibana/index_patterns/index_pattern.js`
 
-*Wrong:*
+*错误:*
   - `src/kibana/IndexPatterns/IndexPattern.js`

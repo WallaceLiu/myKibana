@@ -4,7 +4,7 @@ Kibana is your window into the [Elastic Stack](https://www.elastic.co/products).
 
 - [Getting Started](#getting-started)
   - [Using a Kibana Release](#using-a-kibana-release)
-  - [Building and Running Kibana, and/or Contributing Code](#building-and-running-kibana-andor-contributing-code)
+  - [构建和运行 Kibana, 或者贡献代码](#构建和运行-Kibana-或者贡献代码)
   - [Snapshot Builds](#snapshot-builds)
 - [Documentation](#documentation)
 - [Version Compatibility with Elasticsearch](#version-compatibility-with-elasticsearch)
@@ -26,7 +26,7 @@ If you want to use a Kibana release in production, give it a test run, or just p
 - We also offer a hosted version of Kibana on our
 [Cloud Service](https://www.elastic.co/cloud/as-a-service).
 
-### Building and Running Kibana, and/or Contributing Code
+### 构建和运行 Kibana, 或者贡献代码
 
 You might want to build Kibana locally to contribute some code, test out the latest features, or try
 out an open PR:
